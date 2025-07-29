@@ -1,0 +1,1 @@
+This is a mocking project to check integration with AI assistant for Code Reviews and Pull Request tasks
